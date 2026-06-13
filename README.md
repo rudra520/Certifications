@@ -6,12 +6,12 @@ Welcome to my certifications repository! This space serves as a verified gallery
 
 ## 🏆 Featured Certifications
 
-| Certification / Event | Issuing Organization | Date | View |
+| Certification / Event | Issuing Organization | Date | Preview |
 | :--- | :--- | :--- | :---: |
-| **AWS Foundations: Machine Learning Basics** | Amazon Web Services (AWS) | June 2026 | [View Certificate](./AWS%20Foundations:%20Machine%20Learning%20Basics.png) |
-| **Programming with Python 3.X** | Coursera / Udemy / EdX *[Update if needed]* | June 2026 | [View Certificate](./Programming%20with%20Python%203.X.png) |
-| **Web Design & Development** | *[Insert Institution]* | June 2026 | [View Certificate](./Web%20Design%20%26%20Development.png) |
-| **IIT-BHU (Codefest'25)** | IIT BHU | 2025 | [View Certificate](./IIT-BHU(Codefest'25).png) |
+| **AWS Foundations: Machine Learning Basics** | Amazon Web Services (AWS) | June 2026 | <img src="./AWS%20Foundations:%20Machine%20Learning%20Basics.png" height="40" alt="AWS ML"> |
+| **Programming with Python 3.X** | Coursera / Udemy / EdX | June 2026 | <img src="./Programming%20with%20Python%203.X.png" height="40" alt="Python"> |
+| **Web Design & Development** | *[Insert Institution]* | June 2026 | <img src="./Web%20Design%20%26%20Development.png" height="40" alt="Web Design"> |
+| **IIT-BHU (Codefest'25)** | IIT BHU | 2025 | <img src="./IIT-BHU(Codefest'25).png" height="40" alt="IIT BHU"> |
 
 ---
 
