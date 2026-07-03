@@ -17,6 +17,7 @@ Welcome to my certifications repository! This space serves as a verified gallery
 | **Programming with Python 3.X** | Simplilearn | June 2026 | <img src="./Programming%20with%20Python%203.X.png" height="40" alt="Python"> |
 | **Web Design & Development** | NSDC | June 2026 | <img src="./Web%20Design%20%26%20Development.png" height="40" alt="Web Design"> |
 | **IIT-BHU (Codefest'25)** | IIT BHU | 2025 | <img src="./IIT-BHU(Codefest'25).png" height="40" alt="IIT BHU"> |
+| **IIT-BHU (Codefest'25)** | IIT BHU | 2025 | <img src="./IIT-BHU(Codefest'25).png" height="40" alt="IIT BHU"> |
 
 ---
 
