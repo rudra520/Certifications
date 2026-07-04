@@ -12,7 +12,7 @@ Welcome to my certifications repository! This space serves as a verified gallery
 | **Python Programming Skill Assessment** | CodeAlpha | June 2026 | <img src="./Python%20Programming%20Skill%20Assessment(Codealpha).pdf" height="40" alt="CodeAlpha Python"> |
 | **Internship Program in Frontend Development** | Verification Issued | June 2026 | <img src="./Internship%20Program%20in%20Frontend%20Development.pdf" height="40" alt="Frontend Internship"> |
 | **GenAI Literacy** | SkillQuest | June 2026 | <img src="./GenAI%20Literacy%20.pdf" height="40" alt="GenAI Literacy"> |
-| **AI-ML Engineer** | AI-Machine Learning Engineer Course | June 2026 | <img src="./AI-ML%20Engineer.pdf" height="40" alt="AI-ML Engineer"> |
+| **AI-ML Engineer** | AI-Machine Learning Engineer Course | June 2026 | <img src="https://github.com/rudra520/Certifications/blob/de30d141107ccf26a9aeb7e71148ffea464d08a7/AI%20and%20ML%20Engineer.png" height="40" alt="AI-ML Engineer"> |
 | **AWS Foundations: Machine Learning Basics** | Amazon Web Services (AWS) | June 2026 | <img src="./AWS%20Foundations:%20Machine%20Learning%20Basics.png" height="40" alt="AWS ML"> |
 | **Programming with Python 3.X** | Simplilearn | June 2026 | <img src="./Programming%20with%20Python%203.X.png" height="40" alt="Python"> |
 | **Web Design & Development** | NSDC | June 2026 | <img src="./Web%20Design%20%26%20Development.png" height="40" alt="Web Design"> |
