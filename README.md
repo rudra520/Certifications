@@ -14,7 +14,7 @@ Welcome to my certifications repository! This space serves as a verified gallery
 | **GenAI Literacy** | SkillQuest | June 2026 | <img src="./GenAI%20Literacy%20.pdf" height="40" alt="GenAI Literacy"> |
 | **AI-ML Engineer** | AI-Machine Learning Engineer Course | June 2026 | <img src="https://github.com/rudra520/Certifications/blob/de30d141107ccf26a9aeb7e71148ffea464d08a7/AI%20and%20ML%20Engineer.png" height="40" alt="AI-ML Engineer"> |
 | **AWS Foundations: Machine Learning Basics** | Amazon Web Services (AWS) | June 2026 | <img src="./AWS%20Foundations:%20Machine%20Learning%20Basics.png" height="40" alt="AWS ML"> |
-| **Programming with Python 3.X** | Simplilearn | June 2026 | <img src="./Programming%20with%20Python%203.X.png" height="40" alt="Python"> |
+| **Programming with Python 3.X** | Simplilearn | June 2026 | <img src="https://github.com/rudra520/Certifications/blob/c51490304629a12bb4b17c74d68ac3e04f1438d9/Programming%20with%20Python%203.X.png" height="40" alt="Python"> |
 | **Web Design & Development** | NSDC | June 2026 | <img src="./Web%20Design%20%26%20Development.png" height="40" alt="Web Design"> |
 | **IIT-BHU (Codefest'25)** | IIT BHU | 2025 | <img src="./IIT-BHU(Codefest'25).png" height="40" alt="IIT BHU"> |
 | **IIT-BHU (Codefest'25)** | IIT BHU | 2025 | <img src="./IIT-BHU(Codefest'25).png" height="40" alt="IIT BHU"> |
